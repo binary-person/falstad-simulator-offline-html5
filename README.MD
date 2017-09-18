@@ -1,0 +1,5 @@
+# ATENTION! This Site originally Belongs to http://falstad.com/circuit/circuitjs.html
+# I Have Modified it and succesfully created a clone!
+# That Also Means that You CANNOT sell it!
+# And Also this site is capable of running offline if you have offline websites enabled
+# Enjoy the website Without GWT or any JAVA!!!
