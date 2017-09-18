@@ -11,9 +11,6 @@ CACHE MANIFEST
 ./customlogic.html
 ./customfunction.html
 ./iframe.html
-./enable-offline.html
-./disable-offline.html
-./disable-offline-confirm.html
 ./circuitjs22/clear.cache.gif
 ./circuitjs22/setuplist.txt
 ./circuitjs22/C4CFDFAA9FEB79601750E6C0411F960A.cache.js
